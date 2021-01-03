@@ -1,3 +1,10 @@
+# MailModo FrontEnd Task
+
+### The Website is deployed on heroku
+### frontend is created using bootstrap and custom styling in a react app
+### To fetch the data from API Endpoint - AXIOS Library is used
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
